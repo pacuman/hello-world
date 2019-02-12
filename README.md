@@ -1,6 +1,4 @@
 # hello-world
-My first repository
+My first repository v2
 
-Sup bros.
-
-My name is Matthew Paculan. I like Phoenix Splashes.
+My name is Matthew Paculan. I just want to be successful.
